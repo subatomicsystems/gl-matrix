@@ -1,4 +1,5 @@
-source :gemcutter
+#source :gemcutter
+source 'https://rubygems.org'
 
 # core ruby
 gem 'rake'
